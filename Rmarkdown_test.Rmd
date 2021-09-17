@@ -2,7 +2,8 @@
 title: "Rmarkdown test"
 author: "K"
 date: "17/09/2021"
-output: html_document
+output: 
+  github_document
 ---
 
 ```{r setup, include=FALSE}
